@@ -1,4 +1,4 @@
-# EPOCH Titles
+# EPOCH
 
 **Project ID:** Wxh2oUAP
 
