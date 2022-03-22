@@ -7,14 +7,13 @@
 #### EPOCH | Inflation with boundary awareness
 Abstract: *An inflation solver which is aware of the locality of surrounding geometry. Every simulation step each node dilates while accounting for intersections from neighbouring nodes.*
 
-#### iris |
+#### iris | Light transport of inner-ocular geometry
 Abstract: **
 
-#### timelapseXPU |
+#### timelapseXPU | KarmaXPU using the Debevec HDR set.
 Abstract: **
 
 ### Requirements
-
 - Both Linux and Windows are supported. Linux is recommended for performance and compatibility reasons.
 - 64-bit Python 3.7.9 installation.
 - SideFX Houdini & Foundry Nuke
