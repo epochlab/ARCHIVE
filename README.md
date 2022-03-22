@@ -10,7 +10,7 @@ Abstract: *An inflation solver which is aware of the locality of surrounding geo
 #### iris | Light transport of inner-ocular geometry
 Abstract: **
 
-#### timelapseXPU | KarmaXPU using the Debevec HDR set.
+#### timelapseXPU | KarmaXPU using the Debevec HDR set
 Abstract: **
 
 ### Requirements
