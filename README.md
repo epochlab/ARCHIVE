@@ -4,8 +4,14 @@
 
 ![alt text](https://github.com/epochlab/epoch/blob/main/sample.png)
 
-#### Inflation with boundary awareness.
+#### EPOCH | Inflation with boundary awareness
 Abstract: *An inflation solver which is aware of the locality of surrounding geometry. Every simulation step each node dilates while accounting for intersections from neighbouring nodes.*
+
+#### iris |
+Abstract: **
+
+#### timelapseXPU |
+Abstract: **
 
 ### Requirements
 
