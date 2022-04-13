@@ -5,13 +5,16 @@
 ![alt text](https://github.com/epochlab/epoch/blob/main/sample.png)
 
 #### EPOCH | Inflation with boundary awareness
-Abstract: *An inflation solver which is aware of the locality of surrounding geometry. Every simulation step each node dilates while accounting for intersections from neighbouring nodes.*
+
+#### DeepDream | Find and enhance patterns in images via algorithmic pareidolia
+
+#### dicom2voxel | Render DICOM medical imaging data as a 3-dimensional voxel grid.
 
 #### iris | Light transport of inner-ocular geometry
-Abstract: **
+
+#### ocean-toolkit | A comprehensive guide to ocean specturm rendering
 
 #### timelapseXPU | KarmaXPU using the Debevec HDR set
-Abstract: **
 
 ### Requirements
 - Both Linux and Windows are supported. Linux is recommended for performance and compatibility reasons.
