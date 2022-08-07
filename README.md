@@ -8,8 +8,6 @@
 
 #### DeepDream | Find and enhance patterns in images via algorithmic pareidolia
 
-#### dicom2voxel | Render DICOM medical imaging data as a 3-dimensional voxel grid.
-
 #### iris | Light transport of inner-ocular geometry
 
 #### ocean-toolkit | A comprehensive guide to ocean specturm rendering
