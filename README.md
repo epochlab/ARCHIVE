@@ -2,7 +2,11 @@
 
 **Project ID:** Wxh2oUAP
 
-![alt text](https://github.com/epochlab/epoch/blob/main/sample.png)
+<p align="center">
+  <img src="https://github.com/epochlab/epoch/blob/main/sample.png">
+</p>
+
+--------------------------------------------------------------------
 
 #### EPOCH | Inflation with boundary awareness
 
