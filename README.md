@@ -20,6 +20,9 @@
 #### Temporal Profile | Frame Consistency Visualization
 #### Token | Alpha Numeric Generator
 
+### Packages
+`numpy` `pillow`
+
 ### Requirements
 - Both Linux and Windows are supported. Linux is recommended for performance and compatibility reasons.
 - 64-bit Python 3.7.9 installation.
