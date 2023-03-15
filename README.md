@@ -8,15 +8,18 @@
 
 --------------------------------------------------------------------
 
+### Tools:
 #### EPOCH | Inflation with boundary awareness
-
 #### DeepDream | Find and enhance patterns in images via algorithmic pareidolia
-
 #### iris | Light transport of inner-ocular geometry
-
 #### ocean-toolkit | A comprehensive guide to ocean specturm rendering
-
 #### timelapseXPU | KarmaXPU using the Debevec HDR set
+
+### Scripts:
+#### meanRGB | Per-image feature subtraction
+#### Temporal Profile | Frame Consistency Visualization
+#### Token | Alpha Numeric Generator
+
 
 ### Requirements
 - Both Linux and Windows are supported. Linux is recommended for performance and compatibility reasons.
