@@ -3,7 +3,7 @@
 **Project ID:** Wxh2oUAP
 
 <p align="center">
-  <img src="https://github.com/epochlab/epoch/blob/main/sample.png">
+  <img src="https://github.com/epochlab/ARCHIVE/blob/main/sample.png">
 </p>
 
 --------------------------------------------------------------------
